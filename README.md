@@ -4,4 +4,4 @@ this is the description for my project!
 
 ## subhear
 
-watch tutorials n Youtube.
+watch tutorials in Youtube.
